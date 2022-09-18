@@ -8,6 +8,7 @@ body{
 
 h1{
     font-size: 3rem;
+    text-transform: capitalize;
     text-align: center;
     background: #ff00cc;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #333399, #ff00cc);  /* Chrome 10-25, Safari 5.1-6 */
@@ -37,7 +38,7 @@ h1{
     justify-content: center;
     align-items: center;
     font-size: 1.5rem;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.75);
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 1);
     border-radius: 15px;
     box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.75);
 }
