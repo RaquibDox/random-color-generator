@@ -22,6 +22,7 @@ h1{
 }
 
 .container{
+    margin: 2rem 2rem 3rem 2rem;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -29,7 +30,6 @@ h1{
 
 .color-container{
     font-family: "Courier New", Courier, monospace;
-    background-color: rebeccapurple;
     width: 300px;
     height: 150px;
     color: antiquewhite;
